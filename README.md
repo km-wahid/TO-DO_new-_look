@@ -28,19 +28,19 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 ## Apply migration
 python manage.py migrate
 
-##create superuser
+## Create superuser
 python manage.py createsuperuser
 
-##Run the Development sever
+## Run the Development sever
 python manage.py runserver
 
-##Visit the web
+## Visit the web
 http://127.0.0.1:8000
 
 
-#Requiments
+# Requiments
 
-Django>=3.0,<4.0
+Django>=3.0,<4.0 
 djangorestframework
 django-crispy-forms
 psycopg2-binary
