@@ -19,7 +19,7 @@ A simple web application to manage your to-do tasks built with Django.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/django-todo-app.git](https://github.com/km-wahid/TO-DO_new_look
+   git clone https://github.com/km-wahid/TO-DO_new_look
  
 ## Create virtual enviornment 
 python -m venv venv
